@@ -1,0 +1,9 @@
+Este es un rchivo para comprobar como 
+
+vamos con  Git.
+
+A pedido de Freddy para 
+
+practicar lo aprendido
+
+en el curso de GitHub.

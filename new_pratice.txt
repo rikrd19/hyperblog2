@@ -1,6 +1,6 @@
-** Este es un archivo para comprobar como 
+Este es un archivo para comprobar como 
 
-vamos con  Git.
+vamos con  Git. La importancia de la practica.
 
 Participante: Mi nombre Rikrdo A.B.
 

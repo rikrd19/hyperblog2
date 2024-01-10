@@ -1,3 +1,5 @@
+Estoy Aprendiendo Git
+
 Este es un archivo para comprobar como 
 
 vamos con  Git. La importancia de la practica.

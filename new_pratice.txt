@@ -1,9 +1,17 @@
-Este es un rchivo para comprobar como 
+**** Este es un archivo para comprobar como 
 
-vamos con  Git.
+vamos con  Git. ****
+
+Participante: Mi nombre Rikrdo A.B.
 
 A pedido de Freddy para 
 
 practicar lo aprendido
 
 en el curso de GitHub.
+
+Debemos haber aprendido todo el
+
+tema anterior para 
+
+poder continuar.

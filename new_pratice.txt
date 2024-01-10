@@ -1,6 +1,6 @@
-**** Este es un archivo para comprobar como 
+** Este es un archivo para comprobar como 
 
-vamos con  Git. ****
+vamos con  Git.
 
 Participante: Mi nombre Rikrdo A.B.
 
@@ -15,3 +15,5 @@ Debemos haber aprendido todo el
 tema anterior para 
 
 poder continuar.
+
+Es necesario Practicar lo aprendido.

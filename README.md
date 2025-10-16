@@ -4,7 +4,9 @@ Este es una nueva prueba para probar un push
 
 Un commit mas desde gitHub
 
-Una actualizacion
+Una actualizacion.
+
+Segunda actualizacion desde gitHub
 
 Un blog increible para el curso de Git y Github (https://platzi.com/cursos/git-github/_ curso de Git y Github_) de Platzi (https://platzi.com/new-home/)
 

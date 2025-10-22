@@ -4,6 +4,8 @@ mi primera contribucion local para github
 
 un commit mas desde github
 
+una actualizacion mas desde github
+
 
 Un blog increible para el curso de Git y Github (https://platzi.com/cursos/git-github/_ curso de Git y Github_) de Platzi (https://platzi.com/new-home/)
 

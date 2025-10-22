@@ -2,6 +2,9 @@
 
 mi primera contribucion local para github
 
+un commit mas desde github
+
+
 Un blog increible para el curso de Git y Github (https://platzi.com/cursos/git-github/_ curso de Git y Github_) de Platzi (https://platzi.com/new-home/)
 
 > El curso de Git y Github de Platzi es lo que me hacia falta para triplicar mi salario y lanzarme a la industria del tejido de Lana Sintética con machine Learning

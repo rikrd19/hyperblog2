@@ -6,6 +6,7 @@ un commit mas desde github
 
 una actualizacion mas desde github
 
+Cambios desde mi rama local llamada developer01/
 
 Un blog increible para el curso de Git y Github (https://platzi.com/cursos/git-github/_ curso de Git y Github_) de Platzi (https://platzi.com/new-home/)
 

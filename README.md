@@ -10,6 +10,8 @@ Cambios desde mi rama local llamada developer01/
 
 Cambios desde dev editor
 
+Presiona <kbd>W</kbd> para ir arriba, presiona <kbd>S</kbd> para abajo y <kbd>A</kbd>  para la izquierda o <kbd>D</kbd> para la derecha
+
 Un blog increible para el curso de Git y Github (https://platzi.com/cursos/git-github/_ curso de Git y Github_) de Platzi (https://platzi.com/new-home/)
 
 > El curso de Git y Github de Platzi es lo que me hacia falta para triplicar mi salario y lanzarme a la industria del tejido de Lana Sintética con machine Learning

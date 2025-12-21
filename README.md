@@ -118,7 +118,6 @@ Este proyecto forma parte del módulo **DAW II - Bloque 1** y ha sido desarrolla
    <?xml version="1.0"?>
    <citas/>
    4. **Acceder a la aplicación**
-   - Abrir el navegador y dirigirse a: `http://localhost/2526-daw2-bloc1-a12-team-osmio/`
    - O según la configuración de tu servidor local
 
 ## 📖 Uso de la Aplicación
